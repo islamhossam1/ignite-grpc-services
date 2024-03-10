@@ -1,0 +1,4 @@
+flask ~= 3.0.0
+grpcio-tools==1.62.0
+Jinja2 ~= 2.11
+pytest ~= 5.4
